@@ -185,7 +185,7 @@
             <artifactId>xom</artifactId>
             <version>1.2.7</version>
         </dependency>
-        <!-- This jar is found in the zip file after you publish the job from Talend Studio --
+        <!-- This jar is found in the zip file after you publish the job from Talend Studio -->
         <!-- mvn install:install-file -Dfile=./emailvalidation_christophe_0_1.jar -DgroupId=talend-job -DartifactId=emailvalidation -Dversion=0.1 -Dpackaging=jar -->
         <dependency>
             <groupId>talend-job</groupId>
