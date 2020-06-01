@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.14-TALEND">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.9.14-TALEND/jackson-core-asl-1.9.14-TALEND.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.9.14-TALEND/jackson-core-asl-1.9.14-TALEND-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.9.14-TALEND/jackson-core-asl-1.9.14-TALEND-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
