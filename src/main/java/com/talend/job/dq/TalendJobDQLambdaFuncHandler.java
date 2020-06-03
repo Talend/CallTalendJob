@@ -17,7 +17,7 @@ public class TalendJobDQLambdaFuncHandler implements RequestHandler<APIGatewayPr
         String requestString = apiGatewayProxyRequestEvent.getBody();
         logger.log(requestString);
         logger.log(apiGatewayProxyRequestEvent.toString());
-        final local_project.emailvalidation_christophe_0_1.emailValidation_Christophe job = new local_project.emailvalidation_christophe_0_1.emailValidation_Christophe();
+        final local_project.emailvalidation_0_1.emailValidation job = new local_project.emailvalidation_0_1.emailValidation();
         String[] var = new String[] {
                 "--context_param input="+requestString
         };
